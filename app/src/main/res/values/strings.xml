@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyTrip</string>
+    <string name="application_name">My Login</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="email">Email</string>
+    <string name="signIn">Entrar</string>
+    <string name="signUp">Cadastrar</string>
+    <string name="logOut">Deslogar</string>
+    <string name="source">Destino</string>
+    <string name="type">Tipo</string>
+    <string name="leisure">Lazer</string>
+    <string name="business">Negócios</string>
+    <string name="start">Inicio</string>
+    <string name="end">Fim</string>
+    <string name="budget">Orçamento</string>
+    <string name="save">Salvar</string>
+</resources>
